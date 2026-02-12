@@ -4,7 +4,7 @@ This repository contains two Jupyter notebooks demonstrating different approache
 
 ## 📚 Notebooks Overview
 
-### 1. Basic RAG Example (`3_RAG_basic_example.ipynb`)
+### 1. Basic RAG Example (`RAG_basic_example.ipynb`)
 A foundational implementation of a RAG system using vector embeddings and similarity search.
 
 **Key Features:**
