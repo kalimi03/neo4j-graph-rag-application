@@ -139,6 +139,10 @@ These notebooks are provided for educational and research purposes.
 
 ---
 
-**Author**: Mohammed Bari  
+## Author: 
+
+**Mohammed Bari**  
+
+---
 
 ⭐ Star this repo if you find it helpful.
