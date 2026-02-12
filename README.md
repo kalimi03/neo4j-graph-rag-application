@@ -109,20 +109,6 @@ pip install accelerate
 - **LLM**: Llama 3.2 3B Instruct
 - **Cypher Generation**: Automated with error handling
 
-## 🎯 Key Concepts
-
-### Vector RAG
-1. **Text Chunking**: Breaking documents into manageable pieces
-2. **Embedding**: Converting text to numerical vectors
-3. **Similarity Search**: Finding relevant chunks using cosine similarity
-4. **Generation**: Using retrieved context to generate answers
-
-### Graph RAG
-1. **Knowledge Graph**: Structured data as nodes and relationships
-2. **Cypher Queries**: Graph query language for Neo4j
-3. **Hybrid Retrieval**: Combining graph traversal with vector search
-4. **Multi-hop Reasoning**: Following relationships across multiple nodes
-
 ## 📝 Notes
 
 - Both notebooks are designed to run in Google Colab
