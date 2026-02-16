@@ -2,6 +2,10 @@
 
 This repository contains two Jupyter notebooks demonstrating different approaches to Retrieval-Augmented Generation (RAG) systems.
 
+**Youtube video link:**
+1. https://www.youtube.com/watch?v=3nL0sI-uHp4&list=PLUbsXss2Bch_rWPEyoxS_rQR8dDWZYDl9
+2. https://www.youtube.com/watch?v=6xn20NjjpdM&t=1s
+
 ## 📚 Notebooks Overview
 
 ### 1. Basic RAG Example (`RAG_basic_example.ipynb`)
